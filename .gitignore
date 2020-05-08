@@ -23,3 +23,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/web-model/target/
+/web-app/target/
